@@ -1,0 +1,1 @@
+Basic encryption methods, implemented in client-server format. All servers run on local host, all clients connect automatically.
